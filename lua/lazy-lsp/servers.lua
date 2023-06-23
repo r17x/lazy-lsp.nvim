@@ -212,7 +212,6 @@ return {
   sourcekit = "sourcekit-lsp",
   sourcery = "",
   spectral = "",
-  sqlls = "",
   sqls = "sqls",
   standardrb = "",
   starlark_rust = "",
